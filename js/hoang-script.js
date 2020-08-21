@@ -1,3 +1,3 @@
 console.log('Hello World');
 
-console.log('Hopefully you will see this')
+console.log('Hopefully you will see that')
